@@ -1,3 +1,9 @@
+# About This Fork
+
+This fork provides an apple silicon build so I don't have to keep re-building it.
+
+---
+
 # Il2CppDumper
 
 [![Build status](https://ci.appveyor.com/api/projects/status/anhqw33vcpmp8ofa?svg=true)](https://ci.appveyor.com/project/Perfare/il2cppdumper/branch/master/artifacts)

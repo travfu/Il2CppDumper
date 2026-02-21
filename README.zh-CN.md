@@ -1,3 +1,9 @@
+# 關於這個 Fork
+
+我懶得每次自己重新編譯 ，所以直接提供一個原 repo 沒有的 Apple Silicon 版本。
+
+---
+
 # Il2CppDumper
 
 [![Build status](https://ci.appveyor.com/api/projects/status/anhqw33vcpmp8ofa?svg=true)](https://ci.appveyor.com/project/Perfare/il2cppdumper/branch/master/artifacts)
